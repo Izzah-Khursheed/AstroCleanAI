@@ -7,11 +7,11 @@ Meet the brilliant minds behind Space-Ninjas, a team dedicated to tackling space
 | Name       | LinkedIn Profiles           | GitHub Handle |
 |------------|---------------|--------------|
 | Izzah Khursheed | [Izzah Khursheed](https://www.linkedin.com/in/izzah-khursheed) | [@izzahkhursheed](https://github.com/Izzah-Khursheed) |
-| Tayyaba Mustafa |  | [@tayyabamustafa]() |
-| Noor-ul-Ain Amir |   | [@noorulainamir]() |
+| Tayyaba Mustafa | [Tayyaba Mustafa]() | [@tayyabamustafa]() |
+| Noor-ul-Ain Amir | [Noor-ul-Ain Amir](https://www.linkedin.com/in/noor-ul-ain-amir-696a49333/)  | [@noorulainamir](https://github.com/nooramir893) |
 | Sikander Nawaz | [Sikander Nawaz](https://www.linkedin.com/in/sikander-nawaz/)  | [@sikandernawaz](https://github.com/sikander-nawaz) |
-| Eman Sibghat |   | [@emansibghat]() |
-| Rafia Fatima |   | [@rafiafatima]() |
+| Eman Sibghat | [Eman Sibghat]()  | [@emansibghat]() |
+| Rafia Fatima |  [Rafia Fatima]() | [@rafiafatima]() |
 
 # **🤖 About Project**
 
