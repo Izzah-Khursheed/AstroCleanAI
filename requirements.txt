@@ -14,3 +14,4 @@ matplotlib
 pymongo
 pillow
 opencv-python
+opencv-python-headless
