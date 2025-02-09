@@ -115,5 +115,5 @@ AstroCleanAI is an advanced space monitoring solution that integrates AI, ML, an
 ## *11- Links*  
 Check out the Project: <br>
 [AstroCleanAI](https://izzah-khursheed-astrocleanai.hf.space/) <br>
-[Submission Link]()
+[Submission Link](https://lablab.ai/event/aistronauts-space-agents-on-a-mission/space-ninjas/astrocleanai-ai-powered-space-agent)
 
