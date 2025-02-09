@@ -9,7 +9,7 @@ Meet the brilliant minds behind Space-Ninjas, a team dedicated to tackling space
 | Izzah Khursheed | [Izzah Khursheed](https://www.linkedin.com/in/izzah-khursheed) | [@izzahkhursheed](https://github.com/Izzah-Khursheed) |
 | Tayyaba Mustafa |  | [@tayyabamustafa]() |
 | Noor-ul-Ain Amir |   | [@noorulainamir]() |
-| Sikander Nawaz |   | [@sikandernawaz]() |
+| Sikander Nawaz | [Sikander Nawaz](https://www.linkedin.com/in/sikander-nawaz/)  | [@sikandernawaz](https://github.com/sikander-nawaz) |
 | Eman Sibghat |   | [@emansibghat]() |
 | Rafia Fatima |   | [@rafiafatima]() |
 
