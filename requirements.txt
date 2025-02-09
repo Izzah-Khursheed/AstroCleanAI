@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+torch
+torchvision
+ultralytics
+transformers
+xgboost
+scikit-learn
+joblib
+skyfield
+crewai
+matplotlib
+pymongo
+pillow
+opencv-python
