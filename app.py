@@ -15,7 +15,30 @@ from scipy.integrate import odeint
 from matplotlib.lines import Line2D  
 
 # Set Page Config
-st.set_page_config(page_title="AstroCleanAI 🚀", page_icon="🌌", layout="wide")
+favicon = Image.open("Icon.png")
+st.set_page_config(page_title="AstroCleanAI 🚀", page_icon=favicon, layout="wide")
+
+# Function to set background image
+def set_background(image_file):
+    """Set the background image using base64 encoding."""
+    import base64
+    with open(image_file, "rb") as f:
+        encoded_string = base64.b64encode(f.read()).decode()
+    
+    bg_image_style = f"""
+    <style>
+    .stApp {{
+        background: url("data:image/jpg;base64,{encoded_string}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }}
+    </style>
+    """
+    st.markdown(bg_image_style, unsafe_allow_html=True)
+    
+# Call the function with your image filename
+set_background("Background1.jpg")
 
 # Load YOLOv5 Model for Space Debris Detection
 @st.cache_resource
@@ -240,7 +263,7 @@ with tab2:
 
 # 🛰 **Debris Detection & Classification**
 with tab3:
-    st.markdown("### 🛰 *AI-Powered Debris Classification & Detection*")
+    st.markdown("### 📡 *AI-Powered Debris Classification & Detection*")
     
     uploaded_file = st.file_uploader("Upload a Space Image for Debris Detection", type=["jpg", "png"])
     
